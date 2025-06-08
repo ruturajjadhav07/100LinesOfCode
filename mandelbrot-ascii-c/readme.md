@@ -10,7 +10,7 @@ gcc mandelbrot.c -o mandelbrot
 ```
 
 ### Example Output
-```bash
+```txt
 
 
                                                                                                *
